@@ -1,0 +1,19 @@
+﻿Task,Priority,Description,Assignee,Phase,AssigneeId
+T001,1,Server Set Up,Tommy,,S003
+T002,1,Meeting (I),,1,
+T003,2,Frontend creation<br/>expected to due on Thursday,Perry,1,S002
+T004,3,Backend creation<br/>expected to due on Thursday,David,1,S001
+T005,4,Frontend creation<br/>expected to due on Thursday <br/> (2),Sandy,1,S005
+T006,1,Meeting (II),,2,
+T007,2,Frontend fixes<br/>expected to due on Monday,Allen,2,S007
+T008,2,Backend fixes<br/>expected to due on Monday,David,,S006
+T009,3,Design changes<br/>expected to due on Friday,Mat,2,S010
+T010,4,Meeting (III) with <p>Demoooo</p>,,2,
+T011,5,Deployment on AWS,Tommy,2,S003
+T012,3,Testing and QA,David,,S008
+T013,6,<b>(Reserved)</b>,,2,
+T014,7,<b>(Reserved)</b>,,2,
+T015,8,<b>(Reserved)</b>,,2,
+T016,4,<b>(Reserved)</b>,,,
+T017,1,Finalise the work,David,3,S011
+T018,2,Submit via email and make sure the repository is kept secret,Tony,3,S004
